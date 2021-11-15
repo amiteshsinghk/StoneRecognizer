@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "523969825521",
+    "project_id": "stonerecognizersssssss",
+    "storage_bucket": "stonerecognizersssssss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523969825521:android:f811b333024dcfda56b750",
+        "android_client_info": {
+          "package_name": "com.example.stonerecognizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523969825521-8k2eipq3kaqv92qj34vcgi5d5v623pe1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw--FsvjaF32JfixZyybE56H-FYaaGNuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523969825521-8k2eipq3kaqv92qj34vcgi5d5v623pe1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
