@@ -48,7 +48,6 @@ class MainActivity : AppCompatActivity() {
             // ...
         }
 
-
         button2.setOnClickListener{
                 val intent = Intent()
                 intent.type = "image/*"
@@ -56,9 +55,6 @@ class MainActivity : AppCompatActivity() {
                 startActivityForResult(Intent.createChooser(intent, "Select Image"), PIC_IMAGE)
 
         }
-
-//        resultTv = findViewById<View>(android.R.id.textView)
-//        imageView = findViewById<View>(android.R.id.imageView2)
     }
 
     override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
